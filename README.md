@@ -29,7 +29,7 @@ Here, we are analyzing it’s promotional activities particularly their discount
 
 Promotional techniques should always be used to incentivize customers and communicate what they can accomplish when they buy a product. Anyone can come up with a deal, but how effective is the deal at retaining loyal customers?
 
-## What do we seek ou of this data?
+## What do we seek out of this data?
 
 Discount marketing and coupon usage have been shown to increase sales for new customers, but often result in lower conversion rates for repeat customers. This can lead to decreased loyalty, even among repeat users of a product or service. With extensive knowledge of a single user's purchasing behavior (called "loyalty metrics"), companies can use this information to better understand the preferences of their consumers and construct targeted marketing campaigns to retain current customers and attract new ones.
 
