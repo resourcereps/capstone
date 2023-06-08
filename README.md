@@ -43,7 +43,7 @@ Our approach to this project can be divided into five key stages, each vital for
 Our first step is to familiarize ourselves with the data. This includes understanding the nature of the dataset, the variables we are working with, and how they interact with one another. By doing so, we can ascertain what preprocessing might be necessary and which models may be suitable.
 
 ### 2. Anomaly Detection
-Next, we focus on detecting and handling anomalies within the data. Any irregularities, outliers, or unusual observations can skew results or lead to poor model performance. We employ various statistical techniques to identify these anomalies and decide how best to deal with them.
+Next, we focus on detecting and handling anomalies within the data. Any irregularities, data mismatch, or unusual observations can lead the data and analysis loose it's meaning and sense. And that can lead to poor model performance. We identify these anomalies and decide how best to deal with them.
 
 ### 3. Data Preparation
 In this stage, we prepare the data for modeling. The process of data preparation may include data cleaning, data transformation, and data encoding. This might involve dealing with missing values, transforming categorical variables, and normalizing the data for better performance with our chosen models.
